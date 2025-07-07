@@ -1,0 +1,362 @@
+title,genre,year,rating,description
+Inception,Sci-Fi,2010,8.8,A thief enters dreams to steal secrets and plant ideas.
+The Godfather,Crime,1972,9.2,A mafia family's rise and struggle for power.
+Titanic,Romance,1997,7.8,A love story aboard the doomed RMS Titanic.
+The Matrix,Action,1999,8.7,A hacker discovers reality is a simulation.
+La La Land,Romance,2016,8.0,A jazz musician and actress chase their dreams in LA.
+Interstellar,Sci-Fi,2014,8.6,A team travels through space to save humanity.
+The Dark Knight,Action,2008,9.0,Batman faces Joker in a crime-filled Gotham City.
+Forrest Gump,Drama,1994,8.8,A man's journey through life and history.
+The Shawshank Redemption,Drama,1994,9.3,Two imprisoned men bond over the years.
+Gladiator,Action,2000,8.5,A Roman general seeks revenge after betrayal.
+Pretty Woman,Romance,1990,7,A businessman falls for a spirited escort.
+Ghost,Romance,1990,7.1,A murdered man communicates with his girlfriend through a psychic.
+Beauty and the Beast,Romance,1991,8,An unlikely love story between a prince and a village girl.
+The Bodyguard,Romance,1992,6.3,A former Secret Service agent protects a music superstar.
+Sleepless in Seattle,Romance,1993,6.8,A widower's son calls a radio show to find his dad a partner.
+Before Sunrise,Romance,1995,8.1,A chance train meeting leads to a romantic night in Vienna.
+Dilwale Dulhania Le Jayenge,Romance,1995,8,A young couple must win over their conservative families.
+Jerry Maguire,Romance,1996,7.3,A sports agent finds success and love.
+Titanic,Romance,1997,7.8,A love story aboard the doomed RMS Titanic.
+Notting Hill,Romance,1999,7.1,A bookstore owner falls in love with a famous actress.
+10 Things I Hate About You,Romance,1999,7.3,A high school boy tries to date a girl with a protective father.
+Run Lola Run,Romance,1998,7.6,A woman races against time to save her boyfriend.
+Amélie,Romance,2001,8.3,A whimsical Parisian girl decides to change the lives of those around her.
+A Walk to Remember,Romance,2002,7.4,A high school student falls in love with a quiet girl with a secret.
+My Big Fat Greek Wedding,Romance,2002,6.6,A woman falls for a non-Greek man.
+The Notebook,Romance,2004,7.8,A couple’s love story through decades.
+Pride & Prejudice,Romance,2005,7.8,A classic tale of love and misunderstanding.
+Brokeback Mountain,Romance,2005,7.7,Two cowboys maintain a secret relationship.
+The Holiday,Romance,2006,6.9,Two women swap homes and find love.
+Jab We Met,Romance,2007,7.9,A heartbroken man meets a lively woman on a train.
+P.S. I Love You,Romance,2007,7,A widow receives letters from her late husband.
+Twilight,Romance,2008,5.3,A teenage girl falls in love with a vampire.
+500 Days of Summer,Romance,2009,7.7,The highs and lows of a failed relationship.
+The Time Traveler's Wife,Romance,2009,7.1,A man with a time-traveling condition meets the love of his life.
+Remember Me,Romance,2010,7.1,A troubled young man finds love in New York City.
+La La Land,Romance,2016,8,A jazz musician and actress chase their dreams.
+Barfi!,Romance,2012,8.1,A mute man falls in love with two women in different times.
+The Vow,Romance,2012,6.8,A woman loses memory and her husband tries to win her heart again.
+The Fault in Our Stars,Romance,2014,7.7,Two teens with cancer fall in love.
+Me Before You,Romance,2016,7.4,A girl falls for a paralyzed man she cares for.
+Love Rosie,Romance,2014,7.1,Two lifelong friends deal with missed chances.
+Brooklyn,Romance,2015,7.5,An Irish immigrant faces love and cultural identity.
+Your Name,Romance,2016,8.4,Two strangers mysteriously swap bodies.
+To All the Boys I've Loved Before,Romance,2018,7,A girl's secret letters go public.
+A Star is Born,Romance,2018,7.6,A musician helps a young singer find fame.
+Call Me by Your Name,Romance,2017,7.8,A summer love between a teen and a scholar.
+The Big Sick,Romance,2017,7.5,A couple navigates culture and illness.
+Crazy Rich Asians,Romance,2018,6.9,A woman meets her boyfriend’s wealthy family.
+Weathering with You,Romance,2019,7.5,A runaway meets a girl who can control the weather.
+Little Women,Romance,2019,7.8,Sisters navigate love family and ambition.
+Portrait of a Lady on Fire,Romance,2019,8.1,An artist falls for her subject.
+After,Romance,2019,5.3,A college girl falls for a mysterious rebel.
+Palm Springs,Romance,2020,7.4,Two people get stuck in a time loop at a wedding.
+365 Days,Romance,2020,3.3,A woman falls for a dominant Sicilian man.
+The Half of It,Romance,2020,6.9,A smart teen helps a jock woo a girl they both love.
+Chemical Hearts,Romance,2020,6.2,Two teens bond over shared pain.
+The Map of Tiny Perfect Things,Romance,2021,6.8,Teens relive the same day together.
+The Kissing Booth 3,Romance,2021,4.8,A girl makes choices about college and love.
+To All the Boys: Always and Forever,Romance,2021,6.3,Final chapter of Lara Jean's love story.
+Cyrano,Romance,2021,6.4,A man helps another woo the woman he secretly loves.
+The Lost City,Romance,2022,6.1,A novelist is kidnapped and rescued by her cover model.
+Purple Hearts,Romance,2022,6.7,A fake marriage turns into real feelings.
+Redeeming Love,Romance,2022,6.8,A love story set in the American West.
+Along for the Ride,Romance,2022,6.1,A quiet girl meets a mysterious boy during summer.
+Love in the Villa,Romance,2022,5.3,A woman finds her villa double-booked.
+Emily in Paris,Romance,2020,6.9,A marketing exec finds romance in Paris.
+Through My Window,Romance,2022,5.4,A girl obsesses over her hot neighbor.
+After Ever Happy,Romance,2022,4.5,The final chapter of a toxic romance.
+Your Place or Mine,Romance,2023,5.6,Two long-time friends try swapping lives.
+Past Lives,Romance,2023,8,Childhood friends reconnect after years apart.
+Red White & Royal Blue,Romance,2023,7.1,A British prince and American son fall in love.
+Love at First Sight,Romance,2023,6.9,A couple meets on a flight and fate intervenes.
+Anyone But You,Romance,2023,6.4,Enemies pretend to date in Australia.
+Perfect Addiction,Romance,2023,5.3,A trainer trains a fighter to take down her ex.
+Love Again,Romance,2023,5.7,A woman texts her late fiancé’s number.
+Shotgun Wedding,Romance,2023,5.5,A couple’s wedding turns into a hostage crisis.
+Cha Cha Real Smooth,Romance,2022,7.3,A bar mitzvah host bonds with a young mom.
+The Statistical Probability of Love at First Sight,Romance,2023,6.9,Strangers connect on a flight.
+A Tourist’s Guide to Love,Romance,2023,5.7,A travel exec finds love in Vietnam.
+Coup de Chance,Romance,2023,6.4,A Woody Allen romantic thriller in Paris.
+One Day,Romance,2011,7,A story of two friends revisiting their lives over 20 years.
+Kabir Singh,Romance,2019,7.1,A surgeon turns self-destructive after heartbreak.
+Geetha Govindam,Romance,2018,7.6,A lecturer tries to win back a girl he offended.
+Sita Ramam,Romance,2022,8.6,A soldier and princess fall in love through letters.
+Premam,Romance,2015,8.3,A man's journey through love at different stages.
+Tamasha,Romance,2015,7.3,A boy hides his true identity to fit in.
+Rockstar,Romance,2011,7.7,A musician’s rise parallels a tragic love story.
+Sanam Teri Kasam,Romance,2016,7.3,A modern tale of forbidden love.
+Raanjhanaa,Romance,2013,7.6,A one-sided lover’s journey through politics and pain.
+Rehna Hai Terre Dil Mein,Romance,2001,7.5,A man impersonates someone else to woo a girl.
+Veer-Zaara,Romance,2004,7.8,An Indian pilot and Pakistani woman fall in love.
+Hum Tum,Romance,2004,7,Two opposites cross paths over the years.
+Vivah,Romance,2006,6.6,A traditional arranged marriage tale.
+Kal Ho Naa Ho,Romance,2003,7.9,A dying man helps unite two lovers.
+Mujhse Dosti Karoge!,Romance,2002,5.3,A love triangle based on pen pals.
+Rab Ne Bana Di Jodi,Romance,2008,7.2,A boring man wins his wife's heart in disguise.
+2 States,Romance,2014,6.9,A couple from different cultures tries to marry.
+Yeh Jawaani Hai Deewani,Romance,2013,7.2,A reunion rekindles old love.
+Barbie,Romance,2023,7.2,Barbie explores the human world and love.
+The Silence of the Lambs,Thriller,1991,8.6,A young FBI cadet seeks help from a cannibal to catch a killer.
+Se7en,Thriller,1995,8.6,Two detectives hunt a serial killer using the seven deadly sins.
+Heat,Thriller,1995,8.3,A master criminal faces off against an obsessive detective.
+The Game,Thriller,1997,7.8,A banker is given a mysterious birthday gift that turns his life upside down.
+L.A. Confidential,Thriller,1997,8.2,Cops unravel corruption and scandal in 1950s Los Angeles.
+Fight Club,Thriller,1999,8.8,A man starts an underground fight club with a mysterious stranger.
+The Sixth Sense,Thriller,1999,8.2,A boy who sees dead people seeks help from a psychologist.
+Memento,Thriller,2000,8.4,A man with short-term memory loss tries to track down his wife's killer.
+The Others,Thriller,2001,7.6,A woman suspects her house is haunted while waiting for her husband.
+Minority Report,Thriller,2002,7.6,A cop in a future crime-prevention unit is accused of a murder he has not committed yet.
+The Bourne Identity,Thriller,2002,7.9,An amnesiac tries to uncover his true identity while being hunted.
+Oldboy,Thriller,2003,8.4,A man is mysteriously imprisoned for 15 years and then released.
+Zodiac,Thriller,2007,7.7,Reporters and cops investigate the Zodiac killer in San Francisco.
+No Country for Old Men,Thriller,2007,8.2,A hunter finds a suitcase full of money and becomes a target.
+Gone Baby Gone,Thriller,2007,7.6,Detectives search for a missing girl in a crime-ridden neighborhood.
+The Dark Knight,Thriller,2008,9.0,Batman battles the anarchistic Joker threatening Gotham.
+The Girl with the Dragon Tattoo,Thriller,2009,7.8,A journalist and a hacker uncover a family's dark past.
+Shutter Island,Thriller,2010,8.2,A U.S. Marshal investigates a psychiatric facility’s secrets.
+Black Swan,Thriller,2010,8.0,A ballerina descends into madness during her role preparation.
+Source Code,Thriller,2011,7.5,A soldier wakes up in someone else's body in a time-loop mission.
+Prisoners,Thriller,2013,8.1,A father takes matters into his own hands after his daughter goes missing.
+Nightcrawler,Thriller,2014,7.8,A man records violent crimes in L.A. to sell to news outlets.
+Gone Girl,Thriller,2014,8.1,A man becomes the prime suspect after his wife goes missing.
+Sicario,Thriller,2015,7.6,An FBI agent gets pulled into the drug war at the border.
+10 Cloverfield Lane,Thriller,2016,7.2,A woman is trapped in a bunker with a man who claims the world has ended.
+The Girl on the Train,Thriller,2016,6.5,A woman becomes involved in a missing person case.
+Split,Thriller,2016,7.3,A man with multiple personalities kidnaps three girls.
+Wind River,Thriller,2017,7.7,A tracker helps an FBI agent solve a murder on a Native American reservation.
+A Quiet Place,Thriller,2018,7.5,A family must live in silence to avoid creatures that hunt by sound.
+Bird Box,Thriller,2018,6.6,Unseen forces cause mass suicides — a mother must guide her kids to safety.
+Searching,Thriller,2018,7.6,A father uses technology to find his missing daughter.
+Parasite,Thriller,2019,8.5,A poor family infiltrates a wealthy household with dire consequences.
+Joker,Thriller,2019,8.4,A mentally ill man descends into madness and becomes a symbol of chaos.
+Uncut Gems,Thriller,2019,7.4,A jeweler's risky bets put him in danger.
+The Invisible Man,Thriller,2020,7.1,A woman believes she's being stalked by her abusive ex who faked his death.
+Tenet,Thriller,2020,7.3,A secret agent manipulates time to prevent global catastrophe.
+The Night House,Thriller,2021,6.5,A widow uncovers her late husband's disturbing secrets.
+The Guilty,Thriller,2021,6.3,A 911 operator tries to save a kidnapped woman during a shift.
+Don't Breathe 2,Thriller,2021,6.0,A blind man must protect a young girl from kidnappers.
+Deep Water,Thriller,2022,5.4,A husband allows his wife to take lovers to avoid divorce.
+Windfall,Thriller,2022,5.7,A burglar is interrupted by the vacationing homeowners.
+Emily the Criminal,Thriller,2022,6.6,A woman turns to credit card fraud to get out of debt.
+Run Sweetheart Run,Thriller,2022,5.3,A woman realizes her blind date is hunting her.
+The Pale Blue Eye,Thriller,2022,6.6,A detective partners with a young Edgar Allan Poe.
+Leave the World Behind,Thriller,2023,6.4,A family's vacation turns nightmarish after a cyberattack.
+Boston Strangler,Thriller,2023,6.5,Two reporters investigate a serial killer in 1960s Boston.
+Fair Play,Thriller,2023,6.9,A couple's relationship turns toxic after a workplace promotion.
+Sharper,Thriller,2023,6.1,A con artist targets Manhattan billionaires.
+Fall,Thriller,2022,6.4,Two women are stranded atop a 2000-foot radio tower.
+Plane,Thriller,2023,6.5,A pilot must protect passengers after an emergency landing.
+Hypnotic,Thriller,2023,5.5,A detective investigates his daughter's disappearance linked to mind control.
+God Is a Bullet,Thriller,2023,5.7,A cop infiltrates a cult to find his kidnapped daughter.
+Killers of the Flower Moon,Thriller,2023,8.0,An FBI investigation into Osage murders in the 1920s.
+Ballerina,Thriller,2023,6.7,A former bodyguard seeks revenge after her friend's death.
+The Killer,Thriller,2023,6.8,A professional assassin gets caught in a personal crisis.
+Reptile,Thriller,2023,6.6,A detective uncovers disturbing truths about a murder.
+Goodfellas,Crime,1990,8.7,The rise and fall of mob associate Henry Hill.
+The Silence of the Lambs,Crime,1991,8.6,A young FBI cadet seeks help from a cannibal to catch a killer.
+Reservoir Dogs,Crime,1992,8.3,A heist goes wrong and survivors suspect a traitor.
+Pulp Fiction,Crime,1994,8.9,The lives of crime figures intertwine in violent stories.
+Léon: The Professional,Crime,1994,8.5,A hitman shelters a young girl after her family is murdered.
+Se7en,Crime,1995,8.6,Detectives hunt a killer using the seven deadly sins.
+Heat,Crime,1995,8.3,A master criminal and a detective engage in a deadly game.
+Casino,Crime,1995,8.2,A casino boss’s life spirals amid mob control and betrayal.
+Fargo,Crime,1996,8.1,A kidnapping scheme turns bloody in snowy Minnesota.
+Donnie Brasco,Crime,1997,7.7,An FBI agent infiltrates the mafia and forms a bond with a gangster.
+L.A. Confidential,Crime,1997,8.2,Three cops uncover police corruption in 1950s L.A.
+The Big Lebowski,Crime,1998,8.1,A slacker is mistaken for a millionaire and drawn into crime.
+The Boondock Saints,Crime,1999,7.7,Two Irish brothers become vigilante killers.
+The Green Mile,Crime,1999,8.6,A prison guard discovers a miracle worker on death row.
+American Psycho,Crime,2000,7.6,A wealthy New Yorker hides a dark psychopathic side.
+Traffic,Crime,2000,7.6,Interconnected stories show the U.S. drug war.
+Training Day,Crime,2001,7.7,A rookie cop discovers his partner's corrupt ways.
+City of God,Crime,2002,8.6,A boy grows up amid drug gangs in Rio de Janeiro.
+Catch Me If You Can,Crime,2002,8.1,A con artist forges checks and impersonates professionals.
+Gangs of New York,Crime,2002,7.5,A young man seeks revenge in 1800s New York.
+Mystic River,Crime,2003,7.9,Childhood friends are entangled in a murder case.
+Oldboy,Crime,2003,8.4,A man seeks revenge after 15 years of imprisonment.
+Inside Man,Crime,2006,7.6,A cop faces a mastermind behind a perfect bank heist.
+The Departed,Crime,2006,8.5,Undercover agents from opposite sides hunt each other.
+Zodiac,Crime,2007,7.7,Journalists and police pursue the Zodiac killer.
+American Gangster,Crime,2007,7.8,A detective tries to bring down a heroin kingpin.
+No Country for Old Men,Crime,2007,8.2,A hunter finds money and becomes a target.
+The Dark Knight,Crime,2008,9.0,Batman faces a rising criminal named Joker.
+The Girl with the Dragon Tattoo,Crime,2009,7.8,A journalist and hacker uncover a family mystery.
+The Town,Crime,2010,7.5,A thief falls for a hostage while planning a last job.
+Animal Kingdom,Crime,2010,7.3,A teenager enters a criminal family after his mother’s death.
+Drive,Crime,2011,7.8,A getaway driver is pulled into a violent underworld.
+Prisoners,Crime,2013,8.1,A father takes the law into his hands to find his daughter.
+American Hustle,Crime,2013,7.2,Con artists help the FBI expose political corruption.
+Nightcrawler,Crime,2014,7.8,A man exploits crime journalism in L.A.
+Sicario,Crime,2015,7.6,A female FBI agent is drawn into cartel violence.
+Black Mass,Crime,2015,6.9,The story of Boston gangster Whitey Bulger.
+Hell or High Water,Crime,2016,7.6,Brothers rob banks to save their family ranch.
+Wind River,Crime,2017,7.7,A tracker and FBI agent solve a murder on a reservation.
+Three Billboards Outside Ebbing Missouri,Crime,2017,8.1,A mother demands justice for her murdered daughter.
+You Were Never Really Here,Crime,2017,6.8,A traumatized hitman rescues trafficked girls.
+Widows,Crime,2018,6.8,Widows plan a heist to repay their dead husbands’ debts.
+The Irishman,Crime,2019,7.8,A hitman reflects on his life in organized crime.
+Joker,Crime,2019,8.4,A troubled man becomes a symbol of chaos and rebellion.
+Uncut Gems,Crime,2019,7.4,A jeweler risks it all to pay off gambling debts.
+The Gentlemen,Crime,2020,7.8,A drug lord tries to sell his empire.
+The Little Things,Crime,2021,6.3,Two cops hunt a serial killer in Los Angeles.
+Wrath of Man,Crime,2021,7.1,A mysterious man works security to uncover revenge.
+Cruella,Crime,2021,7.3,A designer descends into villainy in 1970s London.
+The Guilty,Crime,2021,6.3,A 911 operator uncovers a dark crime while on duty.
+The Batman,Crime,2022,7.9,Batman investigates a serial killer targeting elites.
+The Outfit,Crime,2022,7.1,A tailor is caught between rival Chicago gangs.
+Emily the Criminal,Crime,2022,6.6,A woman enters credit fraud to escape debt.
+The Gray Man,Crime,2022,6.5,A CIA agent uncovers dark secrets and becomes a target.
+Boston Strangler,Crime,2023,6.5,Two journalists track a serial killer.
+Sharper,Crime,2023,6.1,Con artists target Manhattan billionaires.
+Fair Play,Crime,2023,6.9,A relationship falls apart due to jealousy and ambition.
+Reptile,Crime,2023,6.6,A detective uncovers lies in a murder case.
+Killers of the Flower Moon,Crime,2023,8.0,The FBI investigates Osage Nation murders.
+Beekeeper,Crime,2024,6.7,A vigilante takes down a phishing network.
+The Killer,Crime,2023,6.8,A hitman faces consequences after a job goes wrong.
+God Is a Bullet,Crime,2023,5.7,A detective infiltrates a cult to rescue his daughter.
+John Wick: Chapter 4,Crime,2023,7.7,John Wick fights across the globe for freedom.
+Dances with Wolves,Drama,1990,8.0,A Civil War soldier befriends Native Americans.
+Thelma & Louise,Drama,1991,7.5,Two women go on the run after a crime.
+Schindler's List,Drama,1993,9.0,A businessman saves Jews during the Holocaust.
+Forrest Gump,Drama,1994,8.8,A simple man influences key moments in history.
+The Shawshank Redemption,Drama,1994,9.3,Two imprisoned men bond over decades in jail.
+Braveheart,Drama,1995,8.3,A Scottish warrior leads a revolt against England.
+Good Will Hunting,Drama,1997,8.3,A janitor with genius math skills seeks help.
+American History X,Drama,1998,8.5,A former neo-nazi tries to prevent his brother’s radicalization.
+The Green Mile,Drama,1999,8.6,Death row guards encounter a miraculous inmate.
+Requiem for a Dream,Drama,2000,8.3,Four people descend into addiction and desperation.
+A Beautiful Mind,Drama,2001,8.2,A brilliant mathematician struggles with schizophrenia.
+The Pianist,Drama,2002,8.5,A Jewish pianist survives WWII in Warsaw.
+Mystic River,Drama,2003,7.9,Old friends are torn apart by a murder investigation.
+Hotel Rwanda,Drama,2004,8.1,A hotel manager shelters refugees during genocide.
+Brokeback Mountain,Drama,2005,7.7,Two cowboys maintain a secret romantic relationship.
+The Pursuit of Happyness,Drama,2006,8.0,A man struggles to care for his son while homeless.
+The Lives of Others,Drama,2006,8.4,A Stasi agent becomes entangled in his target’s life.
+Into the Wild,Drama,2007,8.1,A man leaves society behind for a life of adventure.
+There Will Be Blood,Drama,2007,8.2,A ruthless oilman’s pursuit of wealth changes him.
+Slumdog Millionaire,Drama,2008,8.0,A boy from Mumbai reflects on life while on a game show.
+The Curious Case of Benjamin Button,Drama,2008,7.8,A man ages backward and explores life.
+The Wrestler,Drama,2008,7.9,A washed-up wrestler tries to reconnect with his daughter.
+The Reader,Drama,2008,7.6,A teenager has an affair with a mysterious older woman.
+Precious,Drama,2009,7.3,A teen overcomes abuse and illiteracy to change her life.
+The King's Speech,Drama,2010,8.0,A stammering king finds his voice before WWII.
+127 Hours,Drama,2010,7.6,A climber trapped by a boulder fights to survive.
+The Help,Drama,2011,8.1,A writer exposes racism in 1960s Mississippi.
+The Artist,Drama,2011,7.9,A silent film star struggles as sound films rise.
+The Intouchables,Drama,2011,8.5,A quadriplegic man hires a young caregiver from the projects.
+Silver Linings Playbook,Drama,2012,7.7,A man with bipolar disorder tries to rebuild his life.
+12 Years a Slave,Drama,2013,8.1,A free man is kidnapped and sold into slavery.
+Dallas Buyers Club,Drama,2013,8.0,A man helps AIDS patients get access to medication.
+Her,Drama,2013,8.0,A man falls in love with an AI operating system.
+Boyhood,Drama,2014,7.9,A boy grows up over 12 years in real-time.
+The Theory of Everything,Drama,2014,7.7,Stephen Hawking’s life and love story.
+Whiplash,Drama,2014,8.5,A drummer battles a ruthless music instructor.
+Room,Drama,2015,8.1,A woman and child escape captivity and adjust to freedom.
+Spotlight,Drama,2015,8.1,Journalists expose child abuse in the Catholic Church.
+The Revenant,Drama,2015,8.0,A frontiersman survives betrayal and attacks to find justice.
+Manchester by the Sea,Drama,2016,7.8,A man confronts his past when he becomes a guardian.
+Moonlight,Drama,2016,7.4,A young Black man grapples with his identity.
+Fences,Drama,2016,7.2,A former baseball player faces family tensions.
+Lion,Drama,2016,8.0,A man searches for his birth family in India.
+Call Me by Your Name,Drama,2017,7.8,A summer romance changes two lives.
+Three Billboards Outside Ebbing Missouri,Drama,2017,8.1,A mother challenges police over her daughter’s murder.
+Lady Bird,Drama,2017,7.4,A teenager navigates relationships and independence.
+The Shape of Water,Drama,2017,7.3,A mute woman bonds with a sea creature.
+Roma,Drama,2018,7.7,A housekeeper’s life in 1970s Mexico.
+Marriage Story,Drama,2019,7.9,A couple navigates divorce and parenting.
+Joker,Drama,2019,8.4,A loner descends into madness in Gotham.
+The Father,Drama,2020,8.2,A man struggles with dementia and loss of reality.
+Sound of Metal,Drama,2020,7.8,A drummer copes with sudden hearing loss.
+Nomadland,Drama,2020,7.3,A woman lives a nomadic life after the recession.
+The Trial of the Chicago 7,Drama,2020,7.8,Anti-war protesters are tried for inciting riots.
+Minari,Drama,2020,7.4,A Korean-American family starts a farm in Arkansas.
+CODA,Drama,2021,8.0,A girl torn between family duty and musical dreams.
+The Power of the Dog,Drama,2021,6.9,A rancher’s world is shaken by unexpected relationships.
+Spencer,Drama,2021,6.6,Princess Diana faces crisis during a holiday gathering.
+King Richard,Drama,2021,7.5,The father of Venus and Serena Williams shapes their careers.
+The Whale,Drama,2022,7.7,A reclusive teacher seeks redemption and reconnection.
+The Fabelmans,Drama,2022,7.5,A boy discovers filmmaking amid family tensions.
+Women Talking,Drama,2022,7.0,Woman in a colony debate justice and faith.
+Aftersun,Drama,2022,7.7,A father-daughter holiday in Turkey carries hidden depths.
+The Banshees of Inisherin,Drama,2022,7.7,Two friends fall out in a remote Irish village.
+TÁR,Drama,2022,7.4,A composer faces controversy and downfall.
+Past Lives,Drama,2023,7.9,Childhood friends reunite after decades of separation.
+The Holdovers,Drama,2023,7.8,A teacher stays behind with a troubled student over Christmas.
+Oppenheimer,Drama,2023,8.7,J. Robert Oppenheimer leads the atomic bomb project.
+The Iron Claw,Drama,2023,7.5,A wrestling family's struggles with legacy and tragedy.
+Total Recall,Sci-Fi,1990,7.5,A man discovers his memories may be implanted.
+Terminator 2: Judgment Day,Sci-Fi,1991,8.6,A cyborg protects the future savior of humanity.
+Jurassic Park,Sci-Fi,1993,8.2,Dinosaurs are brought back to life with DNA engineering.
+Stargate,Sci-Fi,1994,7.1,A portal to another world is discovered in Egypt.
+12 Monkeys,Sci-Fi,1995,8.0,A convict travels back in time to prevent a virus outbreak.
+The Fifth Element,Sci-Fi,1997,7.6,A taxi driver helps a supreme being save Earth.
+Gattaca,Sci-Fi,1997,7.8,A man defies genetic discrimination to reach space.
+The Matrix,Sci-Fi,1999,8.7,A hacker discovers reality is a simulation.
+Star Wars: Episode I - The Phantom Menace,Sci-Fi,1999,6.5,The Jedi protect a young boy with a great destiny.
+Pitch Black,Sci-Fi,2000,7.1,Survivors of a crash face night-dwelling creatures.
+A.I. Artificial Intelligence,Sci-Fi,2001,7.2,A robot boy longs to become real.
+Donnie Darko,Sci-Fi,2001,8.0,A teen sees visions of a mysterious figure in a rabbit costume.
+Minority Report,Sci-Fi,2002,7.6,A cop is accused of a future crime in a pre-crime society.
+Equilibrium,Sci-Fi,2002,7.4,A regime suppresses emotion to control society.
+The Matrix Reloaded,Sci-Fi,2003,7.2,Neo continues to fight the machines.
+The Butterfly Effect,Sci-Fi,2004,7.6,A man changes the past with tragic consequences.
+I Robot,Sci-Fi,2004,7.1,A detective investigates a robot accused of murder.
+Serenity,Sci-Fi,2005,7.8,Outlaws flee from an oppressive government and secrets.
+V for Vendetta,Sci-Fi,2005,8.2,A masked vigilante rebels against a dystopian regime.
+Children of Men,Sci-Fi,2006,7.9,A woman pregnant in an infertile world must be protected.
+Sunshine,Sci-Fi,2007,7.2,A crew tries to reignite the dying sun.
+Transformers,Sci-Fi,2007,7.0,Alien robots battle on Earth.
+WALL-E,Sci-Fi,2008,8.4,A lonely robot discovers love and purpose on a trash-filled Earth.
+Avatar,Sci-Fi,2009,7.8,A paralyzed man joins an alien race and fights for their survival.
+District 9,Sci-Fi,2009,7.9,Aliens are forced to live in slums on Earth.
+Star Trek,Sci-Fi,2009,7.9,A new crew takes on the Enterprise.
+Inception,Sci-Fi,2010,8.8,A thief enters people’s dreams to steal ideas.
+Tron: Legacy,Sci-Fi,2010,6.8,A son enters a digital world to find his father.
+Rise of the Planet of the Apes,Sci-Fi,2011,7.6,An experiment sparks intelligent ape rebellion.
+Source Code,Sci-Fi,2011,7.5,A soldier relives 8 minutes before a train bombing.
+Looper,Sci-Fi,2012,7.4,A hitman confronts his older self.
+Prometheus,Sci-Fi,2012,7.0,A space crew seeks humanity’s origins.
+Gravity,Sci-Fi,2013,7.7,A stranded astronaut fights to survive in space.
+Her,Sci-Fi,2013,8.0,A man falls in love with an AI system.
+Interstellar,Sci-Fi,2014,8.7,A team travels through a wormhole to save humanity.
+Edge of Tomorrow,Sci-Fi,2014,7.9,A soldier relives the same battle against aliens.
+Ex Machina,Sci-Fi,2015,7.7,A programmer tests the humanity of a female AI.
+The Martian,Sci-Fi,2015,8.0,A stranded astronaut tries to survive on Mars.
+Star Wars: The Force Awakens,Sci-Fi,2015,7.8,A new generation fights against a rising evil.
+Arrival,Sci-Fi,2016,7.9,A linguist communicates with alien visitors.
+Rogue One: A Star Wars Story,Sci-Fi,2016,7.8,A group of rebels steal Death Star plans.
+Passengers,Sci-Fi,2016,7.0,A man wakes a fellow passenger early on a space trip.
+Life,Sci-Fi,2017,6.6,A space crew discovers a dangerous alien organism.
+Blade Runner 2049,Sci-Fi,2017,8.0,A replicant uncovers secrets threatening society.
+Annihilation,Sci-Fi,2018,6.8,A biologist explores a mutated environmental zone.
+Ready Player One,Sci-Fi,2018,7.4,A gamer seeks a prize in a VR world.
+Upgrade,Sci-Fi,2018,7.5,A man gets a computer chip to take control of his body.
+Ad Astra,Sci-Fi,2019,6.5,A man travels the solar system to find his missing father.
+Alita: Battle Angel,Sci-Fi,2019,7.3,A cyborg warrior discovers her purpose.
+Star Wars: The Rise of Skywalker,Sci-Fi,2019,6.5,The final battle of the Skywalker saga.
+The Midnight Sky,Sci-Fi,2020,5.6,A scientist warns a returning crew of Earth's disaster.
+Tenet,Sci-Fi,2020,7.3,A secret agent manipulates time to stop global destruction.
+The Wandering Earth,Sci-Fi,2019,6.0,Humanity moves Earth to avoid a dying sun.
+Dune,Sci-Fi,2021,8.0,A noble family fights for control of a desert planet.
+Reminiscence,Sci-Fi,2021,5.9,A man dives into memories to find a missing woman.
+Don't Look Up,Sci-Fi,2021,7.2,Scientists warn of an impending comet disaster.
+The Adam Project,Sci-Fi,2022,6.7,A man time travels to meet his younger self.
+Moonfall,Sci-Fi,2022,5.1,The Moon's orbit shifts toward Earth with disaster looming.
+Everything Everywhere All at Once,Sci-Fi,2022,8.0,A woman explores multiverses to save existence.
+After Yang,Sci-Fi,2022,6.7,A family copes with the malfunction of an AI companion.
+Nope,Sci-Fi,2022,6.8,Residents witness a UFO and attempt to document it.
+Crimes of the Future,Sci-Fi,2022,5.9,Human evolution leads to strange surgical performance art.
+65,Sci-Fi,2023,5.4,A pilot crashes on prehistoric Earth and fights to survive.
+The Creator,Sci-Fi,2023,7.0,A soldier bonds with a child AI in a war against machines.
+M3GAN,Sci-Fi,2023,6.4,A robotic doll turns deadly when attached to a child.
+They Cloned Tyrone,Sci-Fi,2023,6.7,A trio uncovers a government conspiracy.
+Rebel Moon – Part One: A Child of Fire,Sci-Fi,2023,5.6,A peaceful colony hires warriors to defend against an empire.
+Rebel Moon – Part Two: The Scargiver,Sci-Fi,2024,5.3,The final stand against an oppressive regime.
+The Marvels,Sci-Fi,2023,5.7,Three heroes switch powers across galaxies.
+Guardians of the Galaxy Vol. 3,Sci-Fi,2023,7.9,The Guardians fight to save one of their own.
+Spider-Man: Across the Spider-Verse,Sci-Fi,2023,8.6,Miles Morales meets a multiverse of Spider-People.
+Jurassic World: Dominion,Sci-Fi,2022,5.6,Humans and dinosaurs coexist in a new world.
+Lightyear,Sci-Fi,2022,6.1,Buzz Lightyear goes on a time-bending space mission.
+The Tomorrow War,Sci-Fi,2021,6.5,People from the present are sent to fight a future alien war.
